@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-02T02:17:13-04:00</updated><id>http://localhost:4000/</id><title type="html">Yunpeng Xu</title><subtitle>A guy loves coding, sports and cooking</subtitle><entry><title type="html">Parallel Galaxy Simulation</title><link href="http://localhost:4000/parallel/" rel="alternate" type="text/html" title="Parallel Galaxy Simulation" /><published>2017-05-02T00:00:00-04:00</published><updated>2017-05-02T00:00:00-04:00</updated><id>http://localhost:4000/parallel</id><content type="html" xml:base="http://localhost:4000/parallel/">&lt;p&gt;&lt;a href=&quot;https://louis-xu-ustc.github.io/Parallel-Galaxy-Evolution-Simulator/&quot;&gt;&lt;strong&gt;A galaxy evolution simulator&lt;/strong&gt;&lt;/a&gt; uses CUDA to 
+speedup and implement different algorithms on the NVIDIA GPUs. The goal is to compare and analyze the speedup performance of these algorithms.&lt;/p&gt;</content><author><name></name></author><summary type="html">A galaxy evolution simulator uses CUDA to speedup and implement different algorithms on the NVIDIA GPUs. The goal is to compare and analyze the speedup performance of these algorithms.</summary></entry><entry><title type="html">Cookyourself</title><link href="http://localhost:4000/cookyourself/" rel="alternate" type="text/html" title="Cookyourself" /><published>2016-12-20T00:00:00-05:00</published><updated>2016-12-20T00:00:00-05:00</updated><id>http://localhost:4000/cookyourself</id><content type="html" xml:base="http://localhost:4000/cookyourself/">&lt;p&gt;&lt;a href=&quot;http://54.244.78.192/&quot;&gt;&lt;strong&gt;A website&lt;/strong&gt;&lt;/a&gt; that allows users to find cooking inspiration based on the Django (python) framework using the Scrum 
+software developing process. Discover new recipes, and then learn how-tos by following text or video instructions.&lt;/p&gt;
+
+&lt;h4 id=&quot;description-of-features-and-implementations&quot;&gt;Description of features and implementations:&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Base&lt;/strong&gt;: templates/base.html, -base style of website -navbar and search input on each page -facebook login and logout -footer&lt;/p&gt;
+
+&lt;p&gt;Related API: Facebook API&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Search&lt;/strong&gt;: -search recipe based on input, according to dish name and description&lt;/p&gt;
+
+&lt;p&gt;cookyourself/search_indexes.py templates/search&lt;/p&gt;
+
+&lt;p&gt;Related API:&lt;/p&gt;
+
+&lt;p&gt;haystack -django search API
+whoosh -search engine
+main: -dynamically load more recipes from crawler using React.js -filter based on styles, times, and pupolarity -all dishes’images in uniform size using HTML5 canvas&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Crawler&lt;/strong&gt;: cookyourself/crawler.py -Recipe(ingredients, description, instruction…) from allrecipe.com&lt;/p&gt;
+
+&lt;p&gt;cookyourself/periodic.py -Periodically craw contents for websites. -Unit conversion from www.conversion.com&lt;/p&gt;
+
+&lt;p&gt;cookyourself/amazon.py -Price from CUS, Dollar General, Amazon&lt;/p&gt;
+
+&lt;p&gt;cookyourself/youtube.py -Tutorial video based on recipe’s name&lt;/p&gt;
+
+&lt;p&gt;cookyourself/parser.py -Parse data from crawler using regular expression -ntlk Porterstemmer: conversion between singular and plural nouns.&lt;/p&gt;
+
+&lt;p&gt;Related packages and API:&lt;/p&gt;
+
+&lt;p&gt;ntlk-parser
+requests -crawler
+selenium -crawler
+google-api-python-client -youtube
+crontab -crawler-periodic
+Amazon product advertising API -Amazon price
+Beautiful soup -parse html
+dish: -display recipe information -upvote -login user can save recipe to profile -login user can add ingredients to shopping list -recipe tutorial video -make comments and update in real time&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;profile&lt;/strong&gt;: -display user info from Facebook -Favorite dishes -Message Board&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;shoppinglist&lt;/strong&gt;: -display ingredients in shopping list and amount in gram and price -calculate total price of the list -send email or print as a pdf of the list to user -find the nearest store based on user’s input, default map centers at Pittsburgh.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PDF generation&lt;/strong&gt;: pdfgen.py Related API: reportlab&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nearest store&lt;/strong&gt;: Google map API&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;recommendation&lt;/strong&gt; -recommend dishes randomly and change&lt;/p&gt;</content><author><name></name></author><summary type="html">A website that allows users to find cooking inspiration based on the Django (python) framework using the Scrum software developing process. Discover new recipes, and then learn how-tos by following text or video instructions.</summary></entry><entry><title type="html">Resource Reservation Framework in Linux Kernel</title><link href="http://localhost:4000/rtes/" rel="alternate" type="text/html" title="Resource Reservation Framework in Linux Kernel" /><published>2016-12-19T00:00:00-05:00</published><updated>2016-12-19T00:00:00-05:00</updated><id>http://localhost:4000/rtes</id><content type="html" xml:base="http://localhost:4000/rtes/">&lt;p&gt;A Linux kernel module cooperating with several system calls to provide interfaces for developers to reserve their 
+application based on either timing, cpu, and power constraints.&lt;/p&gt;</content><author><name></name></author><summary type="html">A Linux kernel module cooperating with several system calls to provide interfaces for developers to reserve their application based on either timing, cpu, and power constraints.</summary></entry></feed>
