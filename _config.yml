@@ -7,11 +7,15 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Yunpeng Xu
+#tagline:          'A Jekyll theme'
+#description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      A guy loves coding, sports and cooking
+url:              https://louis-xu-ustc.github.io
 baseurl:          /
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://www.gravatar.com/avatar/6aa9753014abf8c30b9df37f3141e5e8?s=256
 
 author:
   name:           'Mark Otto'
