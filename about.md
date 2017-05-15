@@ -10,6 +10,29 @@ permalink: /about/
 * I love cooking.
 <!-- * [Resume](https://github.com/misaka-10032/Resume/blob/master/resume.pdf) -->
 
+## Skills
+<span style="color:gray">Programing Language</span>  
+C/C++, Java > Python > Javascript, HTML/CSS, Matlab > Shell
+
+<span style="color:gray">Video Processing</span>  
+H.264 (AVC), H.265 (HEVC), V4L2 (Video for Linux 2)
+
+<span style="color:gray">Robotics and Auto-Driving</span>  
+ROS
+
+<span style="color:gray">Parallel Techniques</span>  
+CUDA, OpenMP, MPI, ISPC
+
+<span style="color:gray">Web Application</span>  
+Django, Bootstrap, React
+
+<span style="color:gray">Software Development</span>  
+Vim, Git, GDB, CUDA-GDB
+
+<span style="color:gray">Software Engineering</span>  
+Process: Scrum, Spiral  
+SDLC (Software Development Life Cycle): Requirement Engineering, Planning, Tracking, Architecture Design, Risk and Quality Management, Testing 
+
 ## Work experience
 <span style="color:gray">Oct. 2015 - Jul. 2016</span>  
 System Application Engineer, Ambarella Inc., Shanghai, China
