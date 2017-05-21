@@ -21,13 +21,13 @@ H.264 (AVC), H.265 (HEVC), V4L2 (Video for Linux 2)
 ROS
 
 <span style="color:gray">Parallel Techniques</span>  
-CUDA, OpenMP, MPI, ISPC
+CUDA, OpenMP, MPI, ISPC, CUDA-GDB
 
 <span style="color:gray">Web Application</span>  
 Django, Bootstrap, React
 
 <span style="color:gray">Software Development</span>  
-Vim, Git, GDB, CUDA-GDB
+Vim, Git, GDB
 
 <span style="color:gray">Software Engineering</span>  
 Process: Scrum, Spiral  
@@ -41,17 +41,17 @@ System Application Engineer, Ambarella Inc., Shanghai, China
 Embedded Software Engineer, Galaxycore Inc., Shanghai, China
 
 <span style="color:gray">Sep. 2011 - Jun. 2014</span>  
-Research Assistant, University of Science and Technoloty of China, Hefei, China
+Research Assistant, University of Science and Technology of China, Hefei, China
 
 ## Education
 <span style="color:gray">Sep. 2016 - Dec. 2017 (expected)</span>  
 Master of Science Information Technology, Carnegie Mellon University, Pittsburgh, USA
 
 <span style="color:gray">Sep. 2011 - Jun. 2014</span>  
-Master of Biomedical Engineering, University of Science and Technoloty of China, Hefei, China
+Master of Biomedical Engineering, University of Science and Technology of China, Hefei, China
 
 <span style="color:gray">Sep. 2007 - Jun. 2011</span>  
-Bachelor of Electronic Information Science and Technology, University of Science and Technoloty of China, Hefei, China
+Bachelor of Electronic Information Science and Technology, University of Science and Technology of China, Hefei, China
 
 ## Legacy
 #### Publication
