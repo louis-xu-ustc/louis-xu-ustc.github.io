@@ -12,16 +12,19 @@ permalink: /about/
 
 ## Skills
 <span style="color:gray">Programing Language</span>  
-C/C++, Java > Python > Javascript, HTML/CSS, Matlab > Shell
+C/C++, Java > Objective-C, Python > Javascript, HTML/CSS, Matlab > Shell
 
 <span style="color:gray">Video Processing</span>  
 H.264 (AVC), H.265 (HEVC), V4L2 (Video for Linux 2)
 
-<span style="color:gray">Robotics and Auto-Driving</span>  
-ROS
-
 <span style="color:gray">Parallel Techniques</span>  
 CUDA, OpenMP, MPI, ISPC, CUDA-GDB
+
+<span style="color:gray">Robotics and Auto-Driving</span>  
+ROS, OpenCV, CUDA-OpenCV
+
+<span style="color:gray">Mobile Development</span>  
+Android > IOS
 
 <span style="color:gray">Web Application</span>  
 Django, Bootstrap, React
