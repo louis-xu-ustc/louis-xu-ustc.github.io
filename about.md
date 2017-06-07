@@ -8,14 +8,16 @@ permalink: /about/
 * I like embedded software.
 * I watch sports.
 * I love cooking.
-<!-- * [Resume](https://github.com/misaka-10032/Resume/blob/master/resume.pdf) -->
 
 ## Skills
 <span style="color:gray">Programing Language</span>  
-C/C++, Java > Objective-C, Python > Javascript, HTML/CSS, Matlab > Shell
+C/C++, Java > Python, Objective-C > Javascript, HTML/CSS, Matlab > Shell
 
-<span style="color:gray">Video Processing</span>  
+<span style="color:gray">Video Codec</span>  
 H.264 (AVC), H.265 (HEVC), V4L2 (Video for Linux 2)
+
+<span style="color:gray">Linux Development</span>  
+Device Driver, Real-Time System, Task Scheduling, Kernel Modules
 
 <span style="color:gray">Parallel Techniques</span>  
 CUDA, OpenMP, MPI, ISPC, CUDA-GDB
