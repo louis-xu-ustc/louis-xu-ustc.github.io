@@ -45,10 +45,10 @@ At the same time, customers can pay for their order through the Vemo payment sys
         - Notifications (pick up order)
 
 
-![Easy Order Architecture](/images/20170713/easyOrderArchitecture.png){:height="50%" width="50%"}{: .center-image }
+![Easy Order Architecture](/images/20170713/easyOrderArchitecture.png){:height="70%" width="70%"}{: .center-image }
 ***Figure 1.** Easy Order Application Architecture*
 
-[![A short video to introduce easy order application](/images/20170713/easyOrderLogin.png){:height="40%" width="40%"}{: .center-image }](TBD)
+[![A short video to introduce easy order application](/images/20170713/easyOrderLogin.png){:height="50%" width="50%"}{: .center-image }](TBD)
 ***Video 1.** A short video that introduce easy order application [To be added]*
 
 #### More details:  
