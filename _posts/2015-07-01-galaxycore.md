@@ -20,7 +20,7 @@ In this way, all the sub-modules were abstracted into sub-devices and formed a d
 in user space for the whole pipeline. Furthermore, I optimized the memory allocation of project’s finite DRAM, which could adjust dynamically 
 according to the sensor’s resolution and different scenes. 
 
-![](/images/20150701/Pipeline.png)
+![](/images/20150701/Pipeline.png){: .center-image }
 ***Figure 1.** Video Processing Pipeline for IP Camera*
 
 I mainly programed under the Linux operating system using C language and arm-none-linux-gnueabi-gcc as the cross-compiler toolchain. 
