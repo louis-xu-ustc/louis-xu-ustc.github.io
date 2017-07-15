@@ -9,9 +9,20 @@ permalink: /about/
 * I watch sports.
 * I love cooking.
 
+## Summary
+I'm currently a graduate student of Carnegie Mellon University (CMU) majored in Computer Science. I will graduate in December 2017, so now I'm actively seeking for a full-time software development job.  
+I have three years' research experience of medical device in University of Science and Technology of China (USTC), and two years' industry working experience for Embedded Software Development before I came to CMU last summer.
+
+My various software developing experience can be concluded into three categories:  
+1. Embedded Software Development/Intent of Thing (IOT): Linux device driver, Linux scheduling algorithms, video codec library  
+2. Autonomous Driving: ROS (Robotic Operating System), Parallel Programming  
+3. Android and Web Application Development  
+
+I'm open to job opportunities for the above three areas.
+
 ## Skills
 <span style="color:gray">Programing Language</span>  
-C/C++, Java > Python, Objective-C > Javascript, HTML/CSS, Matlab > Shell
+C/C++, Java > Python > Javascript, HTML/CSS, Matlab, Objective-C > Shell
 
 <span style="color:gray">Video Codec</span>  
 H.264 (AVC), H.265 (HEVC), V4L2 (Video for Linux 2)
@@ -35,7 +46,8 @@ Django, Bootstrap, React
 Vim, Git, GDB
 
 <span style="color:gray">Software Engineering</span>  
-Process: Scrum, Spiral  
+Process: Scrum, Spiral 
+Tools: JIRA, Trello
 SDLC (Software Development Life Cycle): Requirement Engineering, Planning, Tracking, Architecture Design, Risk and Quality Management, Testing 
 
 ## Work experience
