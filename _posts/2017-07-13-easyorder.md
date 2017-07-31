@@ -48,12 +48,13 @@ At the same time, customers can pay for their order through the Vemo payment sys
 ![Easy Order Architecture](/images/20170713/easyOrderArchitecture.png){:height="70%" width="70%"}{: .center-image }
 ***Figure 1.** Easy Order Application Architecture*
 
-[![A short video to introduce easy order application](/images/20170713/easyOrderLogin.png){:height="50%" width="50%"}{: .center-image }](TBD)
-***Video 1.** A short video that introduce easy order application [To be added]*
+[![A short video to introduce easy order application](/images/20170713/easyOrderLogin.png){:height="50%" width="50%"}{: .center-image }](https://www.youtube.com/watch?v=2JiupeR6n-A)
+***Video 1.** A short video that introduces easy order application [**click the graph**]*
 
 #### More details:  
 [Github: Easy Order Android](https://github.com/louis-xu-ustc/EasyOrder_Android)  
 [Github: Easy Order IOS](https://github.com/louis-xu-ustc/EasyOrder_IOS)  
 [Github: Easy Order Backend](https://github.com/louis-xu-ustc/EasyOrder_Backend)  
+[Android: Easy Order APK](https://github.com/louis-xu-ustc/EasyOrder_Android/blob/master/EasyOrder_Android/app/build/outputs/apk/app-debug.apk)
 
 
