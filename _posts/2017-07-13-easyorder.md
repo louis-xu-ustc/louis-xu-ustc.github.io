@@ -55,6 +55,4 @@ At the same time, customers can pay for their order through the Vemo payment sys
 [Github: Easy Order Android](https://github.com/louis-xu-ustc/EasyOrder_Android)  
 [Github: Easy Order IOS](https://github.com/louis-xu-ustc/EasyOrder_IOS)  
 [Github: Easy Order Backend](https://github.com/louis-xu-ustc/EasyOrder_Backend)  
-[Android: Easy Order APK](https://github.com/louis-xu-ustc/EasyOrder_Android/blob/master/EasyOrder_Android/app/build/outputs/apk/app-debug.apk)
-
-
+[Project Report](https://docs.google.com/document/d/1I-aqrC58YsMQx_7B4pwrcKylsRBUufK6mL-r28VJwsY/edit?usp=sharing)
