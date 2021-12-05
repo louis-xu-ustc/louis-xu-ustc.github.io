@@ -9,7 +9,7 @@ permalink: /about/
 * I love cooking.
 
 ## Summary
-I'm currently an Autonomous Driving Software Engineer at [**Aptiv**](https://www.aptiv.com/) after graduating from Carnegie Mellon University (CMU) last December.  
+I'm currently an Autonomous Driving Software Engineer at [**Motional**](https://motional.com/) after graduating from Carnegie Mellon University (CMU) last December.  
 I have three years' research experience of medical device in University of Science and Technology of China (USTC, Hefei, China), 
 and two years' industry working experience for Embedded Software Development (Shanghai, China) before I came to CMU.
 
